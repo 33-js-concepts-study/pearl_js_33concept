@@ -34,11 +34,8 @@ Uncaught RangeError: Maximum call stack size exceeded
 비동기 콜백은 특수한 시점에서 실행되므로 스택안에서 push 될 필요가 없습니다.
 자바스크립트 실행환경에 이벤트 큐(Event Queue - FIFO방식)를 가지고 있습니다.
 
-
-
 Reference Link : https://new93helloworld.tistory.com/358
 
-### Stack : Last In First Out(LIFO방식)
 ## 2. Primitive type 원시 자료
 오브젝트를 제외한 모든 값은 변경 불가능한 값이다.
 (C언어에서는 숫자를 문자열이라고 칭할 수 있으나 JS에서는 불변값이다.)
