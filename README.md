@@ -38,7 +38,6 @@ Reference Link : https://new93helloworld.tistory.com/358
 
 ## 2. Primitive type 원시 자료
 오브젝트를 제외한 모든 값은 변경 불가능한 값이다.
-(C언어에서는 숫자를 문자열이라고 칭할 수 있으나 JS에서는 불변값이다.)
 * Boolean type : true or false
 * Null type : null
 * Undefined type : 값을 할당하지 않는 변수
